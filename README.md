@@ -17,12 +17,12 @@ Please make sure the path of MUMmer has been added into system variable.
 
 `g++ MAC2.0.cpp -o MAC2.0`
 
-`MAC2.0 <contig_query.fa> <contig_reference.fa>`
+`MAC2.0 <contig_query.fa> <contig_reference.fa>` # input file name without path
 
 
 ## Notification:
 
-- The input files need to be placed in the ./input folder.
+- The input files need to be placed in the ./input folder. Please input only the filename without path.
 
 - The output file will be output to the ./output folder.
 
